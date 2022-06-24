@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    
+   
+}
+
+#top{
+    background-image: url("images/mko.jpg");
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+    margin: 0;
+    
+
+    font-family: 'Lobster', cursive;
+    
+    
+}
+#under{
+    font-family: sans-serif;
+    background-color: black;
+    color: #FA8210;
+    
+}
+#vis{
+    background-color: #FA8210;
+}
+.visit{
+    
+    padding: 150px;
+    
+}
+
+#pics{
+    border-radius: 70%;
+    width: 250px;
+    
+}
+.subimg{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+#middle{
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    
+}
+.caption{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+#ritaj {
+    float: left;
+    width: 100px;
+    padding: 10px;
+}
+.bottom{
+    margin-left: 550px;
+    border: none  ;
+    width: 310px;
+    background: linear-gradient(45deg, #FA8210, black );
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
